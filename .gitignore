@@ -1,0 +1,8 @@
+**/.vscode/
+**/__MACOSX/
+**/build/
+**/devel/
+**/install/
+**/__pycache__/*.pyc
+**/animation*
+*.code-workspace
